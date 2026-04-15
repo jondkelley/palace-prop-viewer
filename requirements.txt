@@ -1,0 +1,8 @@
+# Palace Prop Viewer — optional dependencies
+#
+# The viewer works with Python 3.8+ stdlib only (tkinter is included).
+# Installing Pillow enables smoother prop rendering (RGBA compositing,
+# nearest-neighbour scaling with correct transparency).
+#
+# Install with:  pip install Pillow
+Pillow>=9.0
